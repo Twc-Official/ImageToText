@@ -52,6 +52,8 @@
 
 <p align="center"><strong> Well done! Now, the code should work as intended. Enjoy! </strong></p>
 
+<h4 align="center">Warning: tesseract OCR is required for this.
+
 </p>
 
 <h2 align="center">👨‍💻│ Made by <a href="https://github.com/Twc-Official">@Twc-Official</a></h2>
